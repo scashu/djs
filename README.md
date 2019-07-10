@@ -1,2 +1,2 @@
 # djs
-DJ Sushant Website
+DJS Website
